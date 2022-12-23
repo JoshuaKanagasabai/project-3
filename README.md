@@ -1,4 +1,4 @@
-# CSI-3334-project-3
+project-3
 Encrypts and decrypts messages using a binary search tree
 
 i x — insert cleartext word x into the codebook.
